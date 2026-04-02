@@ -1,7 +1,7 @@
 streamlit
+ultralytics
+torch
+torchvision
 numpy
 matplotlib
-opencv-python-headless
-Pillow
-ultralytics
-torch==2.0.0
+pillow
